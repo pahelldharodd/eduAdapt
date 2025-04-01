@@ -1,0 +1,8 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/learning-paths/page": "app/learning-paths/page.js",
+  "/study-planner/page": "app/study-planner/page.js",
+  "/focus-mode/page": "app/focus-mode/page.js",
+  "/StudyReminders/page": "app/StudyReminders/page.js",
+  "/dashboard/page": "app/dashboard/page.js"
+}
